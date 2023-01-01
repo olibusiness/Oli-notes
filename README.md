@@ -1,6 +1,3 @@
 # Oli-notes
 
-
-This project is a Pomodoro timer, a time management tool that helps users stay focused and productive by breaking their work into intervals separated by short breaks.
-I created this project as I wanted a timer that would allow me to easily set custom work and break duration times and provides auditory alerts when a work interval or break is complete.
-The website is also set to be able to add other productivity techniques in the future.
+This personal project is a tool to help me refresh my memory on notes that i have taken while reading. It uses a custom API to retrieve a randomly selected note from a collection of notes . I built this as I need a way review and reinforcing key points from a texts, as well as for simply reminding of ideas and information I may have forgotten.
